@@ -4,7 +4,7 @@
  * [7] 整数反转
  */
 class Solution {
-    public int reverse(int x,) {
+    public int reverse(int x) {
         if (x > Integer.MAX_VALUE || x < Integer.MIN_VALUE)
             return 0;
         int copyX = x; // 保存x
