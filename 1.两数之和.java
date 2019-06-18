@@ -8,7 +8,7 @@ import java.util.Map;
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         int len = nums.length;
         for (int i = 0; i < len; i++) {
             // 1. 如果nums[i]不在map的value中，则将target-nums[i]存入map的value
