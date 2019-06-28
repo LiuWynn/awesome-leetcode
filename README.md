@@ -29,11 +29,11 @@ solution for leetcode using Java
 |  101  |                   [对称的树](<https://leetcode-cn.com/problems/symmetric-tree/>)                   |  树、深度优先、广度优先  |
 |  104  |        [二叉树的最大深度](<https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/>)        |       树、深度优先       |
 |  107  |   [二叉树的层次遍历 Ⅱ](<https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/>)   |       树、广度优先       |
+|  111  |         [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)         |       树、深度优先       |
 |  709  |                [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                 |          字符串          |
 |  771  |                [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                 |          哈希表          |
 |  929  |          [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)          |          字符串          |
 |  977  |          [有序数组的平方](<https://leetcode-cn.com/problems/squares-of-a-sorted-array/>)           |       数组、双指针       |
-
 
 
 ------
