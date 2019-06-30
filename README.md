@@ -31,6 +31,7 @@ solution for leetcode using Java
 |  107  |       [二叉树的层次遍历 Ⅱ](<https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/>)       |       树、广度优先       |
 |  108  | [将有序数组转化为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |       树、深度优先       |
 |  111  |             [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)             |       树、深度优先       |
+|  118  |                       [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                       |           数组           |
 |  709  |                    [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                     |          字符串          |
 |  771  |                    [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                     |          哈希表          |
 |  929  |              [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)              |          字符串          |
