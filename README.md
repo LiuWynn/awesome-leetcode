@@ -33,6 +33,7 @@ solution for leetcode using Java
 |  111  |             [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)             |       树、深度优先       |
 |  118  |                       [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                       |           数组           |
 |  119  |                     [杨辉三角Ⅱ](https://leetcode-cn.com/problems/pascals-triangle-ii/)                     |           数组           |
+|  121  |          [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)           |      数组、动态规划      |
 |  709  |                    [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                     |          字符串          |
 |  771  |                    [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                     |          哈希表          |
 |  929  |              [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)              |          字符串          |
