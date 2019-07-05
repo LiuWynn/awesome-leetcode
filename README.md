@@ -32,6 +32,7 @@ solution for leetcode using Java
 |  108  | [将有序数组转化为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |       树、深度优先       |
 |  110  |                    [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)                    |       树、深度优先       |
 |  111  |             [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)             |       树、深度优先       |
+|  112  |                           [路径总和](https://leetcode-cn.com/problems/path-sum/)                           |       树、深度优先       |
 |  118  |                       [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                       |           数组           |
 |  119  |                     [杨辉三角Ⅱ](https://leetcode-cn.com/problems/pascals-triangle-ii/)                     |           数组           |
 |  121  |          [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)           |      数组、动态规划      |
