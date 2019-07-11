@@ -42,6 +42,7 @@ solution for leetcode using Java
 |  141  |                      [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                       |       链表、双指针       |
 |  155  |                           [最小栈](https://leetcode-cn.com/problems/min-stack/)                            |         栈、设计         |
 |  160  |               [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)               |           链表           |
+|  167  |      [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)      |  数组、双指针、二分查找  |
 |  709  |                    [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                     |          字符串          |
 |  771  |                    [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                     |          哈希表          |
 |  929  |              [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)              |          字符串          |
