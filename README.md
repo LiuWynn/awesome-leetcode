@@ -46,6 +46,7 @@ solution for leetcode using Java
 |  168  |                [excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)                 |           数学           |
 |  169  |                        [求众数](https://leetcode-cn.com/problems/majority-element/)                        |  位运算、数组、分治算法  |
 |  171  |                [excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)                |           数学           |
+|  172  |                 [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)                  |           数学           |
 |  709  |                    [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                     |          字符串          |
 |  771  |                    [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                     |          哈希表          |
 |  929  |              [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)              |          字符串          |
