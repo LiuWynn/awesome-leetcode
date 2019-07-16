@@ -1,5 +1,5 @@
 # leetcode
-solution for leetcode using Java
+The solution to leetcode using Java
 
 ### 简单题
 
