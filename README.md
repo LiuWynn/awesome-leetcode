@@ -53,6 +53,7 @@ The solution to leetcode using Java
 | 198*  |       [打家劫舍](https://leetcode-cn.com/problems/house-robber/solution/da-jia-jie-she-by-leetcode/)       |         动态规划         |
 |  202  |                          [快乐数](https://leetcode-cn.com/problems/happy-number/)                          |       哈希表、数学       |
 |  203  |               [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                |           链表           |
+| 204*  |                         [计数质数](https://leetcode-cn.com/problems/count-primes/)                         |       哈希表、数学       |
 |  709  |                    [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                     |          字符串          |
 |  771  |                    [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                     |          哈希表          |
 |  929  |              [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)              |          字符串          |
