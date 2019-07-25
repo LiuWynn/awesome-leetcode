@@ -56,6 +56,7 @@ The solution to leetcode using Java
 | 204*  |                         [计数质数](https://leetcode-cn.com/problems/count-primes/)                         |       哈希表、数学       |
 |  205  |                     [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)                     |          哈希表          |
 |  206  |                     [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                      |           链表           |
+|  217  |                    [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)                    |       数组、哈希表       |
 |  709  |                    [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                     |          字符串          |
 |  771  |                    [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                     |          哈希表          |
 |  929  |              [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)              |          字符串          |
