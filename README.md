@@ -72,5 +72,6 @@ The solution to leetcode using Java
 
 |   #   |                                  题目                                  |     标签     |
 | :---: | :--------------------------------------------------------------------: | :----------: |
+|   2   |     [两数相加](https://leetcode-cn.com/problems/add-two-numbers/)      |  链表、数学  |
 |  12   | [整数转罗马数字](<https://leetcode-cn.com/problems/integer-to-roman/>) | 数学、字符串 |
 
