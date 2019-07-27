@@ -10,6 +10,10 @@
  * 
  * √ Your runtime beats 37.4 % of java submissions
  * √ Your memory usage beats 89.84 % of java submissions (43 MB)
+ * 
+ * 改进：
+ * 循环前的代码显得冗余，这样做虽然是为了能返回头节点，但达到这个目的还有更好的方法
+ * 例如：可以让 head 指向第一个节点，最后返回 head.next 即可
  */
 /**
  * Definition for singly-linked list. public class ListNode { int val; ListNode
