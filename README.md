@@ -71,8 +71,9 @@ The solution to leetcode using Java
 
 ### 中等题
 
-|   #   |                                  题目                                  |     标签     |
-| :---: | :--------------------------------------------------------------------: | :----------: |
-|   2   |     [两数相加](https://leetcode-cn.com/problems/add-two-numbers/)      |  链表、数学  |
-|  12   | [整数转罗马数字](<https://leetcode-cn.com/problems/integer-to-roman/>) | 数学、字符串 |
+|   #   |                                  题目                                  |          标签          |
+| :---: | :--------------------------------------------------------------------: | :--------------------: |
+|   2   |     [两数相加](https://leetcode-cn.com/problems/add-two-numbers/)      |       链表、数学       |
+|  *3   |                                  []()                                  | 哈希表、双指针、字符串 |
+|  12   | [整数转罗马数字](<https://leetcode-cn.com/problems/integer-to-roman/>) |      数学、字符串      |
 
