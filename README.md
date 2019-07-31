@@ -9,7 +9,7 @@ The solution to leetcode using Java
 | #    | 题目                                                                                            | 题解 & 动画                                                 | 标签           |
 |:----:|:---------------------------------------------------------------------------------------------:| ------------------------------------------------------- |:------------:|
 | 1    | [两数之和](<https://leetcode-cn.com/problems/two-sum/>)                                           | [走你](https://mp.weixin.qq.com/s/NLYi36H9PKFFn7e2t3C0tg) | 数组、哈希表       |
-| 7    | [整数反转](<https://leetcode-cn.com/problems/reverse-integer/>)                                   |                                                         | 数学           |
+| 7    | [整数反转](<https://leetcode-cn.com/problems/reverse-integer/>)                                   | [走你](https://mp.weixin.qq.com/s/FBT8ZnXg9prQ6Wv7UOcR8w) | 数学           |
 | 9    | [回文数](<https://leetcode-cn.com/problems/palindrome-number/>)                                  |                                                         | 数学           |
 | 13   | [罗马数字转整数](<https://leetcode-cn.com/problems/roman-to-integer/>)                               |                                                         | 数学、字符串       |
 | 14   | [最长公共前缀](<https://leetcode-cn.com/problems/longest-common-prefix/>)                           |                                                         | 字符串          |
