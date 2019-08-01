@@ -65,6 +65,7 @@ The solution to leetcode using Java
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)                                 |                                                         | 树            |
 | 231  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)                                         |                                                         | 位运算、数学       |
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/comments/)             |                                                         | 栈、设计         |
+| 234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                              |                                                         | 链表、双指针       |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                                  |                                                         | 字符串          |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                                |                                                         | 哈希表          |
 | 929  | [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)                       |                                                         | 字符串          |
