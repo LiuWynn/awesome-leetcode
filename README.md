@@ -69,6 +69,7 @@ The solution to leetcode using Java
 | 235  | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/comments/) |                                                          | 树            |
 | 237  | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)                                |                                                          | 链表           |
 | 242  | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)                                               |                                                          | 排序、哈希表       |
+| 257  | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)                                           |                                                          | 树、深度优先       |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                                              |                                                          | 字符串          |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                                            |                                                          | 哈希表          |
 | 929  | [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)                                   |                                                          | 字符串          |
