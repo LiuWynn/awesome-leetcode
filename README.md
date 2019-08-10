@@ -73,7 +73,8 @@ The solution to leetcode using Java
 | 258  | [各位相加](https://leetcode-cn.com/problems/add-digits/)                                                      |                                                          | 数学           |
 | 263  | [丑数](https://leetcode-cn.com/problems/ugly-number/)                                                       |                                                          | 数学           |
 | 268  | [缺失数字](https://leetcode-cn.com/problems/missing-number/)                                                  |                                                          | 位运算、数组、数学    |
-| 278  | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/comments/)                                  |                                                          | 二分查找         |
+| 278* | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/comments/)                                  |                                                          | 二分查找         |
+| 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                                      |                                                          | 数组、双指针       |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                                              |                                                          | 字符串          |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                                            |                                                          | 哈希表          |
 | 929  | [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)                                   |                                                          | 字符串          |
