@@ -11,10 +11,6 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
         int len = nums.length;
         for (int i = 0; i < len; i++) {
-            // 1. 如果nums[i]不在map的value中，则将target-nums[i]存入map的value
-            // 2. 如果nums[i]在map的value中，则返回{value对应的key, i}
-            // 在第二步遇到了问题，改变map存储的顺序，key存target-nums[i]，value存i
-            // ------------------------------------
             // 1. 如果nums[i]不在map的key中，则将target-nums[i]存入map的key
             // 2. 如果nums[i]在map的key中，则返回{key对应的value，i}
             if (map.containsKey(nums[i]))
