@@ -77,6 +77,7 @@ The solution to leetcode using Java
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                                      |                                                          | 数组、双指针       |
 | 290  | [单词规律](https://leetcode-cn.com/problems/word-pattern/)                                                    |                                                          | 哈希表          |
 | 303  | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/comments/)                     |                                                          | 动态规划         |
+| 326  | [3的幂](https://leetcode-cn.com/problems/power-of-three/)                                                   |                                                          | 数学           |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                                              |                                                          | 字符串          |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                                            |                                                          | 哈希表          |
 | 929  | [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)                                   |                                                          | 字符串          |
