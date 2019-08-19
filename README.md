@@ -83,6 +83,7 @@ The solution to leetcode using Java
 | 345  | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/comments/)                      |                                                          | 双指针、字符串         |
 | 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)                                   |                                                          | 排序、哈希表、双指针、二分查找 |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)                             |                                                          | 排序、哈希表、双指针、二分查找 |
+| 367  | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)                                        |                                                          | 数学、二分查找         |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                                              |                                                          | 字符串             |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                                            |                                                          | 哈希表             |
 | 929  | [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)                                   |                                                          | 字符串             |
