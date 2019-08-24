@@ -88,6 +88,7 @@ The solution to leetcode using Java
 | 383  | [赎金信](https://leetcode-cn.com/problems/ransom-note/)                                                      |                                                          | 字符串             |
 | 387  | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)                      |                                                          | 哈希表、字符串         |
 | 389  | [找不同](https://leetcode-cn.com/problems/find-the-difference)                                               |                                                          | 位运算、哈希表         |
+| 400  | [第N个数字](https://leetcode-cn.com/problems/nth-digit/)                                                      |                                                          | 数学              |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>)                                              |                                                          | 字符串             |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>)                                            |                                                          | 哈希表             |
 | 929  | [独特的电子邮件地址](<https://leetcode-cn.com/problems/unique-email-addresses/>)                                   |                                                          | 字符串             |
