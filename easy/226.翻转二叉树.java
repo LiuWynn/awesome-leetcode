@@ -16,7 +16,7 @@
  * left; TreeNode right; TreeNode(int x) { val = x; } }
  */
 class Solution {
-    public static TreeNode invertTree(TreeNode root) {
+    public TreeNode invertTree(TreeNode root) {
         // 递归结束条件
         if (root == null)
             return null;
