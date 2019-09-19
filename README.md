@@ -11,6 +11,7 @@ The solution to leetcode using Java
 |  1   |   [两数之和](<https://leetcode-cn.com/problems/two-sum/>)    |  [走你](https://mp.weixin.qq.com/s/NLYi36H9PKFFn7e2t3C0tg)  |          数组、哈希表          |
 |  7   | [整数反转](<https://leetcode-cn.com/problems/reverse-integer/>) |  [走你](https://mp.weixin.qq.com/s/FBT8ZnXg9prQ6Wv7UOcR8w)  |              数学              |
 |  9   | [回文数](<https://leetcode-cn.com/problems/palindrome-number/>) | [去瞅瞅](https://mp.weixin.qq.com/s/g7JiBZ5EeNc99gAdfZI9xA) |              数学              |
+|  11  | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) |                                                             |          数组、双指针          |
 |  13  | [罗马数字转整数](<https://leetcode-cn.com/problems/roman-to-integer/>) |                                                             |          数学、字符串          |
 |  14  | [最长公共前缀](<https://leetcode-cn.com/problems/longest-common-prefix/>) |                                                             |             字符串             |
 |  20  | [有效的括号](<https://leetcode-cn.com/problems/valid-parentheses/>) | [看看去](https://mp.weixin.qq.com/s/PXwWbeq0mp1KC1ilItRD2w) |           栈、字符串           |
@@ -96,7 +97,7 @@ The solution to leetcode using Java
 | 412  |   [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)   |                                                             |                                |
 | 414  | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/comments/) |                                                             |              数组              |
 | 415  | [字符串相加](https://leetcode-cn.com/problems/add-strings/comments/) |                                                             |             字符串             |
-|      | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string) |                                                             |             字符串             |
+| 434  | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string) |                                                             |             字符串             |
 | 509  | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) |                                                             |              数组              |
 | 709  | [转换成小写字母](<https://leetcode-cn.com/problems/to-lower-case/>) |                                                             |             字符串             |
 | 771  | [宝石与石头](<https://leetcode-cn.com/problems/jewels-and-stones/>) |                                                             |             哈希表             |
