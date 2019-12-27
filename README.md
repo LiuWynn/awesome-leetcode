@@ -113,6 +113,7 @@ The solution to leetcode using Java
 |   2   |                      [两数相加](https://leetcode-cn.com/problems/add-two-numbers/)                       |             |       链表、数学       |
 |  3*   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |             | 哈希表、双指针、字符串 |
 |  12   |                  [整数转罗马数字](<https://leetcode-cn.com/problems/integer-to-roman/>)                  |             |      数学、字符串      |
+|  62   |                        [不同路径](https://leetcode-cn.com/problems/unique-paths/)                        |             |       数组、动规       |
 |  64   |               [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/submissions/)               |             |       数组、动规       |
 |  560  |                 [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                 |             |      数组、哈希表      |
 |  918  |          [环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)           |             |          数组          |
