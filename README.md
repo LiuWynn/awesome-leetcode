@@ -115,6 +115,7 @@ The solution to leetcode using Java
 |  12   |                  [整数转罗马数字](<https://leetcode-cn.com/problems/integer-to-roman/>)                  |             |      数学、字符串      |
 |  62   |                        [不同路径](https://leetcode-cn.com/problems/unique-paths/)                        |             |       数组、动规       |
 |  64   |               [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/submissions/)               |             |       数组、动规       |
+|  303  |          [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)          |             |        动态规划        |
 |  560  |                 [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)                 |             |      数组、哈希表      |
 |  918  |          [环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)           |             |          数组          |
 |  954  |                 [二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs/)                 |             |      数组、哈希表      |
